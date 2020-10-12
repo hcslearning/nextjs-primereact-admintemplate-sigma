@@ -1,7 +1,7 @@
 import Layout from '../components/Layout'
 
-export default function Index() {
+export default function Otra() {
     return <Layout>
-        <h1>Hola Mundo</h1>
+        <h1>Otra Página</h1>
     </Layout>
 }
